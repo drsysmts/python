@@ -7,7 +7,7 @@ print(sum,mul,sus)
 #code work good
 caution={1:"name",2:"age"}  #dic
 print("local333")
-
+#count alphabtic numerber 
 text = "abc abc                   "
 text = text.lower()
 counter = {}
