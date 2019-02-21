@@ -6,3 +6,4 @@ sus=number1-number
 print(sum,mul,sus)
 #code work good
 caution={1:"name",2:"age"}  #dic
+print("local")
