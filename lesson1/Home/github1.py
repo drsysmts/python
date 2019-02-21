@@ -4,3 +4,4 @@ sum = number + number1
 mul=number*number1
 sus=number1-number
 print(sum,mul,sus)
+#code work good
